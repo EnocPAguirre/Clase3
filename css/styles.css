@@ -1,0 +1,19 @@
+.container {
+  font-size: 2em;
+}
+/*  */
+@media (min-with: 668px){
+  h1 {
+    font-size: 2em;
+  }
+}
+@media (min-with: 992px){
+  h1 {
+    font-size: 3em;
+  }
+  .md-50 {
+    width: 48%;
+    display: inline-block;
+    padding: 5
+  }
+}

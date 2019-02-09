@@ -1,0 +1,16 @@
+h1 {
+  background-color: green;
+  margin-top: 100px;
+  margin-left: 200px;
+  padding: 80px;
+  border: black 5px solid;
+  border-bottom: blue 10px solid;
+  border-radius: 50px 15px;
+}
+.container {
+  background-color: blue;
+  width: 90%;
+  min-width: 500px;
+  max-width: 1200px;
+  margin: 30px auto;
+}
